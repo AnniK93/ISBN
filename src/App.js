@@ -1,9 +1,13 @@
 import "./App.css";
+import Search from "./Search.js";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello from ISBN App</h1>
+      <div className="container">
+        <h1>ISBN search</h1>
+        <Search />
+      </div>
     </div>
   );
 }
