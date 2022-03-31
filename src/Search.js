@@ -14,6 +14,7 @@ export default function Search() {
       publishDate: response.data.publish_date,
       publishers: response.data.publishers,
     });
+    console.log(results);
   }
   function handleSubmit(event) {
     event.preventDefault();
