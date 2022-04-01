@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
   background: beige;
   padding: 50px;
 }
@@ -7,4 +6,8 @@
 .App .container {
   background: white;
   padding: 50px;
+}
+
+.App h1 {
+  text-align: center;
 }

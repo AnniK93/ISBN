@@ -1,0 +1,9 @@
+.Results ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.Results h2 {
+  margin: 50px 0px 30px;
+  text-transform: capitalize;
+}

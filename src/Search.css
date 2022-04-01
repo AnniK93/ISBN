@@ -7,3 +7,7 @@
   padding: 10px 10px;
   width: 300px;
 }
+
+.search form {
+  text-align: center;
+}
